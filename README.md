@@ -1,5 +1,5 @@
 <h1 align="center">Namaste🙏🏻,I'm Rishabh Ranjan</h1>
-<h2 align="center">A Relentless Learner on a Ruthless Mission — Walking the Path of Discipline, Obedience, and Execution. Building like a Monk. Grinding like a Warrior</h2>
+<h3 align="center">A Relentless Learner on a Ruthless Mission — Walking the Path of Discipline, Obedience, and Execution. Building like a Monk. Grinding like a Warrior</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=var6&label=Profile%20views&color=0e75b6&style=flat" alt="var6" /> </p>
 
@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rishabh__stark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishabh__stark" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishabh-ranjan-stark/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-ranjan-stark/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishabh-ranjan6626/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-ranjan6626/" height="30" width="40" /></a>
 <a href="https://instagram.com/rishabh_stark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishabh_stark" height="30" width="40" /></a>
 </p>
 
