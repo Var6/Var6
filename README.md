@@ -1,43 +1,250 @@
-<h1 align="center">Namaste🙏🏻,I'm Rishabh Ranjan</h1>
-<h3 align="center">A Relentless Learner on a Ruthless Mission — Walking the Path of Discipline, Obedience, and Execution. Building like a Monk. Grinding like a Warrior</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1a4e,60:2d1b69,100:0f0c29&height=220&section=header&text=Rishabh%20Ranjan&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20Freelancer%20%E2%80%A2%20Builder&descAlignY=60&descSize=18&animation=fadeIn&stroke=a855f7&strokeWidth=2" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=var6&label=Profile%20views&color=0e75b6&style=flat" alt="var6" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=var6" alt="var6" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=600&lines=Building+like+a+Monk.+Grinding+like+a+Warrior.;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind;Full-Stack+%7C+Mobile+%7C+AI+Integration;Open+for+Freelance+%26+Remote+Work+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="left"> <a href="https://twitter.com/rishabh__stark" target="blank"><img src="https://img.shields.io/twitter/follow/rishabh__stark?logo=twitter&style=for-the-badge" alt="rishabh__stark" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on [Multi-functionality Website](https://shemford-web.vercel.app/)
+<img src="https://komarev.com/ghpvc/?username=var6&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Var6?label=Followers&style=flat-square&color=7c3aed" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Available%20for%20Hire-22c55e?style=flat-square" alt="Status"/>
 
-- 🌱 I’m currently learning **3D animations, GO and Rust**
+</div>
 
-- 👯 I’m looking to collaborate on [Chess Clock](https://github.com/Var6/ChessClock.git)
+<br/>
 
-- 🤝 I’m looking for help with [BuddyBeads](https://github.com/Var6/BuddyBeads.git)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a4e,100:2d1b69&height=3&section=header" width="100%"/>
 
-- 👨‍💻 All of my projects are available at [https://profile-six-ochre.vercel.app/](https://profile-six-ochre.vercel.app/)
+<br/>
 
-- 💬 Ask me about **react, NextJS and tailwindCSS**
+<table>
+<tr>
+<td valign="top" width="52%">
 
-- 📫 How to reach me **Rishabhranjan6626@gmail.com**
+### 👋 Hey, I'm Rishabh!
 
-- 📄 Know about my experiences [https://profile-six-ochre.vercel.app/CV.pdf](https://profile-six-ochre.vercel.app/CV.pdf)
+I'm a **Full-Stack Developer** based in 📍 **Patna, India** — crafting fast, scalable web applications since **2019**.
 
-- ⚡ About Me 👨‍💻 **I help businesses and startups build lightning-fast, responsive, modern websites using Next.js, Tailwind CSS, and TypeScript. Currently available for freelance & remote projects. Let's connect!**
+```yaml
+name     : Rishabh Ranjan
+role     : Full-Stack Developer & Freelancer
+based_in : Patna, Bihar, India
+since    : 2019
+focus    : [ React, Next.js, TypeScript, Node.js ]
+learning : [ 3D Animations, Go, Rust ]
+status   : Open for freelance & remote work
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rishabh__stark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishabh__stark" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishabh-ranjan6626/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-ranjan6626/" height="30" width="40" /></a>
-<a href="https://instagram.com/rishabh_stark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishabh_stark" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 🔭 &nbsp; Currently building production-grade **SaaS apps**
+- 🌱 &nbsp; Exploring **3D animations, Go & Rust**
+- 💬 &nbsp; Ask me about **React, Next.js, TypeScript, Tailwind**
+- ⚡ &nbsp; I help startups ship **lightning-fast** products
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=var6&show_icons=true&locale=en&layout=compact" alt="var6" /></p>
+</td>
+<td valign="top" width="48%">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=var6&show_icons=true&locale=en" alt="var6" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=var6&" alt="var6" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=var6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed" width="100%"/>
 
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=var6&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=a855f7&fire=f97316&currStreakLabel=a855f7&sideLabels=c9d1d9" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d1b69,100:1a1a4e&height=3" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+### ✦ Stats at a Glance ✦
+
+<br/>
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-2d1b69?style=flat-square" width="60%"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🚀%20%208%2B%20Projects%20Shipped-1a1a4e?style=for-the-badge&labelColor=7c3aed&color=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/🤝%20%2010%2B%20Happy%20Clients-1a1a4e?style=for-the-badge&labelColor=a855f7&color=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/⚡%20%206%2B%20Years%20Experience-1a1a4e?style=for-the-badge&labelColor=6d28d9&color=0d1117" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-2d1b69?style=flat-square" width="60%"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+**Backend & Database**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+
+**Tools & Platforms**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 🚀 Notable Projects
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="33%" style="background:#0d1117; padding: 16px; border-radius: 10px;">
+
+<img src="https://img.shields.io/badge/✈️-CSC%20Travels-7c3aed?style=for-the-badge"/>
+
+<br/><br/>
+
+Travel booking platform with real-time availability, seamless UX and payment integration
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+
+</td>
+<td align="center" width="33%" style="padding: 8px">
+
+<img src="https://img.shields.io/badge/🏛️-Citizen%20IMF-a855f7?style=for-the-badge"/>
+
+<br/><br/>
+
+Government citizen management portal built for scale, accessibility and secure role-based access
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+
+</td>
+<td align="center" width="33%" style="padding: 8px">
+
+<img src="https://img.shields.io/badge/💳-CSC%20Billing-6d28d9?style=for-the-badge"/>
+
+<br/><br/>
+
+SaaS billing & invoicing dashboard with analytics, role-based access and export features
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=var6&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff&area=true&area_color=2d1b69" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=var6&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" width="38%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=var6&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+<br/>
+
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-2d1b69?style=flat-square" width="60%"/>
+
+<br/>
+
+*"Discipline is the bridge between goals and accomplishment."*
+
+<br/>
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-2d1b69?style=flat-square" width="60%"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:1a1a4e,60:2d1b69,100:0f0c29&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=a855f7&fontAlignY=65&animation=fadeIn" width="100%"/>
