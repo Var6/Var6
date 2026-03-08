@@ -50,11 +50,11 @@ status   : Open for freelance & remote work
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=var6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=var6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&cache_seconds=86400&count_private=true" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=var6&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=a855f7&fire=f97316&currStreakLabel=a855f7&sideLabels=c9d1d9" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=var6&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=a855f7&fire=f97316&currStreakLabel=a855f7&sideLabels=c9d1d9" width="100%"/>
 
 </td>
 </tr>
@@ -199,7 +199,7 @@ SaaS billing & invoicing dashboard with analytics, role-based access and export 
 
 ### 📊 Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=var6&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=var6&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&cache_seconds=86400" width="38%"/>
 
 </div>
 
@@ -209,7 +209,7 @@ SaaS billing & invoicing dashboard with analytics, role-based access and export 
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=var6&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=var6&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=8&margin-h=8" alt="Trophies"/>
 
 </div>
 
