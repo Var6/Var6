@@ -42,6 +42,7 @@ status   : Open for freelance & remote work
 
 - 🔭 &nbsp; Currently building production-grade **SaaS apps**
 - 🌱 &nbsp; Exploring **3D animations, Go & Rust**
+- 👨‍💻 &nbsp; Portfolio: **[rishabh-dusky.vercel.app](https://rishabh-dusky.vercel.app/)**
 - 💬 &nbsp; Ask me about **React, Next.js, TypeScript, Tailwind**
 - ⚡ &nbsp; I help startups ship **lightning-fast** products
 
@@ -221,7 +222,7 @@ SaaS billing & invoicing dashboard with analytics, role-based access and export 
 
 <br/>
 
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://rishabh-dusky.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 &nbsp;
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 &nbsp;
